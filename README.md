@@ -12,7 +12,7 @@
 - Разработан REST API на платформе .Net7;
 - В слоле "persistense" реализована связь с PostgreSql;
 - Интегрирован Swagger;
-- Использовался паттерн "Mediator".
+- Использовался паттерн "Mediator", "CQRS".
 
 <br />
 
