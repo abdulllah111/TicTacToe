@@ -1,0 +1,12 @@
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.Domain/bin/Debug/net7.0/TicTacToe.Domain.deps.json
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.Domain/bin/Debug/net7.0/TicTacToe.Domain.dll
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.Domain/bin/Debug/net7.0/TicTacToe.Domain.pdb
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.Domain/obj/Debug/net7.0/TicTacToe.Domain.csproj.AssemblyReference.cache
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.Domain/obj/Debug/net7.0/TicTacToe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.Domain/obj/Debug/net7.0/TicTacToe.Domain.AssemblyInfoInputs.cache
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.Domain/obj/Debug/net7.0/TicTacToe.Domain.AssemblyInfo.cs
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.Domain/obj/Debug/net7.0/TicTacToe.Domain.csproj.CoreCompileInputs.cache
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.Domain/obj/Debug/net7.0/TicTacToe.Domain.dll
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.Domain/obj/Debug/net7.0/refint/TicTacToe.Domain.dll
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.Domain/obj/Debug/net7.0/TicTacToe.Domain.pdb
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.Domain/obj/Debug/net7.0/ref/TicTacToe.Domain.dll

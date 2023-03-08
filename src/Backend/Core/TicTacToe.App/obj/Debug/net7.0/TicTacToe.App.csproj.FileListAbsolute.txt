@@ -1,0 +1,15 @@
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/bin/Debug/net7.0/TicTacToe.App.deps.json
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/bin/Debug/net7.0/TicTacToe.App.dll
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/bin/Debug/net7.0/TicTacToe.App.pdb
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/bin/Debug/net7.0/TicTacToe.Domain.dll
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/bin/Debug/net7.0/TicTacToe.Domain.pdb
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/obj/Debug/net7.0/TicTacToe.App.csproj.AssemblyReference.cache
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/obj/Debug/net7.0/TicTacToe.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/obj/Debug/net7.0/TicTacToe.App.AssemblyInfoInputs.cache
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/obj/Debug/net7.0/TicTacToe.App.AssemblyInfo.cs
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/obj/Debug/net7.0/TicTacToe.App.csproj.CoreCompileInputs.cache
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/obj/Debug/net7.0/TicTacToe.App.csproj.CopyComplete
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/obj/Debug/net7.0/TicTacToe.App.dll
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/obj/Debug/net7.0/refint/TicTacToe.App.dll
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/obj/Debug/net7.0/TicTacToe.App.pdb
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Core/TicTacToe.App/obj/Debug/net7.0/ref/TicTacToe.App.dll

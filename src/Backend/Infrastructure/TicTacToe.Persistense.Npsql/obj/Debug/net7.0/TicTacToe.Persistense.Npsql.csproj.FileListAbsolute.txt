@@ -1,0 +1,17 @@
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/bin/Debug/net7.0/TicTacToe.Persistense.Npsql.deps.json
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/bin/Debug/net7.0/TicTacToe.Persistense.Npsql.dll
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/bin/Debug/net7.0/TicTacToe.Persistense.Npsql.pdb
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/bin/Debug/net7.0/TicTacToe.App.dll
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/bin/Debug/net7.0/TicTacToe.Domain.dll
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/bin/Debug/net7.0/TicTacToe.App.pdb
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/bin/Debug/net7.0/TicTacToe.Domain.pdb
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/obj/Debug/net7.0/TicTacToe.Persistense.Npsql.csproj.AssemblyReference.cache
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/obj/Debug/net7.0/TicTacToe.Persistense.Npsql.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/obj/Debug/net7.0/TicTacToe.Persistense.Npsql.AssemblyInfoInputs.cache
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/obj/Debug/net7.0/TicTacToe.Persistense.Npsql.AssemblyInfo.cs
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/obj/Debug/net7.0/TicTacToe.Persistense.Npsql.csproj.CoreCompileInputs.cache
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/obj/Debug/net7.0/TicTacToe.Persistense.Npsql.csproj.CopyComplete
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/obj/Debug/net7.0/TicTacToe.Persistense.Npsql.dll
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/obj/Debug/net7.0/refint/TicTacToe.Persistense.Npsql.dll
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/obj/Debug/net7.0/TicTacToe.Persistense.Npsql.pdb
+/home/abdul/Рабочий стол/myprojects/NET/TicTacToe/src/Backend/Infrastructure/TicTacToe.Persistense.Npsql/obj/Debug/net7.0/ref/TicTacToe.Persistense.Npsql.dll
