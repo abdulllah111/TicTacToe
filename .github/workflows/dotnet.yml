@@ -21,6 +21,6 @@ jobs:
       with:
         dotnet-version: 7.0.x
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore src/Backend/TicTacToe-Backend.sln 
     - name: Build
       run: dotnet build --no-restore src/Backend/Presentation/TicTacToe.WebApi/TicTacToe.WebApi.csproj
